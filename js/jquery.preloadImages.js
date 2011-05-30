@@ -5,7 +5,7 @@
     
         if(n <= 0) { return false; }
     
-        for( ; n--;){
+        for( n; n--;){
             var o = document.createElement('img');
             o.src  = arguments[n];
             tmp.push(o);
