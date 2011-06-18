@@ -1,4 +1,4 @@
-# preloadImages--a jQuery plugin
+# jquery.preloadImages--a jQuery plugin
 
 It is licensed under the Apache 2 license
 
